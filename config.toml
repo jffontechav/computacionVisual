@@ -1,7 +1,7 @@
 baseURL = "https://jffontechav.github.io/computacionVisual"
 languageCode = "en-us"
 title = "Showcase Template"
-theme = 'book'
+theme = 'hugo-book-master'
 
 # Book configuration
 disablePathToLower = true
