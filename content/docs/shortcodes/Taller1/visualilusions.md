@@ -11,6 +11,6 @@ Dentro de la percepción visual, una ilusión óptica es una ilusión causada po
 ¿QUE VES?
 {{< /highlight >}}
 
-# Efecto optico 2
+# Efecto Optico 2
 
 <iframe src="https://editor.p5js.org/iuribel/full/IKBh05bee" style="width: 600px; height: 600px; overflow: hidden;"  scrolling="no" frameborder="0"></iframe>
