@@ -1,8 +1,7 @@
 En esta sección encontraran dos ilusiones visuales desarrolladas con p5.
 
-Ver para creer, ¿no? Bueno, en realidad... Lo que ves y lo que crees que ves son cosas diferentes. Tus sentidos recopilan información y la envían a tu cerebro. Pero su cerebro no solo recibe esta información, crea su percepción del mundo. Esto significa que a veces su cerebro llena los espacios cuando hay información incompleta, ¡o crea una imagen que ni siquiera está allí!
+Dentro de la percepción visual, una ilusión óptica es una ilusión causada por el sistema visual y caracterizada por una percepción visual que parece diferir de la realidad. Las ilusiones son muy variadas; su categorización es difícil porque la causa subyacente no suele estar clara, pero una clasificación propuesta por Richard Gregory es útil como orientación. Según ésta, hay tres clases principales: ilusiones físicas, fisiológicas y cognitivas, y en cada clase hay cuatro tipos: Ambigüedades, distorsiones, paradojas y ficciones.
 
-¿Por qué pasó esto? ¡Evolución! La supervivencia depende de reacciones rápidas. Su cerebro ha evolucionado para trabajar rápidamente para juntar cualquier parte y fragmento que pueda obtener, y hacer todo lo posible para descubrir el resto.
 
 # Efecto Optico 1
 
