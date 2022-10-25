@@ -39,7 +39,7 @@ Se genero el sol en el eje original y se generaron transforaciones para cada pla
 
 <iframe src="https://editor.p5js.org/iuribel/full/1cI1nrslU" style="width: 1000px; height: 1000px; overflow: hidden;"  scrolling="no" frameborder="0"></iframe>
 
-##Conclusiones:
+## Conclusiones:
 
 Para el desarrollo de modelamiento de objetos y movimiento se debe tener en cuenta los cambios y las geometrias que se tengan en la pila de transformaciones con respecto al todo.
 Las orientaciones deben ser consistentes entre los diferentes objetos del sistema para que la composicion se mantega, especialmente si se piensa hacer uso de diferentes texturas.
